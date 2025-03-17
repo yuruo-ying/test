@@ -1,6 +1,7 @@
 from PIL import ImageGrab, Image
 import time
 import streamlit.components.v1 as components
+import streamlit as st
 
 st.title("從剪貼簿擷取圖片")
 
